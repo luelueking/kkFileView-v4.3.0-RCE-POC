@@ -82,7 +82,7 @@ if __name__ == "__main__":
 
 可以看到命令成功被执行
 
-![img](images/(null))
+![img](images/(null)-20240415195901951.(null))
 
 uno.py中也确实被写入了内容
 
