@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
 可以任意文件上传，并且可以追加文件内容
 
-经过我研究发现，目标在使用odt转pdf时会调用系统的Libreoffic，而此进程会调用库中的uno.py文件，因此可以覆盖该py文件的内容
+经过我研究发现，目标在使用odt转pdf时会调用系统的Libreoffice，而此进程会调用库中的uno.py文件，因此可以覆盖该py文件的内容
 
 ```Python
 import zipfile
